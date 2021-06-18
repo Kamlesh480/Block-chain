@@ -1,2 +1,2 @@
 # Block-chain
-Block chain
+Block chain specialisation
